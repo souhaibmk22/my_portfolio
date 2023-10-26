@@ -8,7 +8,9 @@
 }
 
 body {
-  background-color: rgb(3, 3, 48);
+  background: rgb(46,1,70);
+background: linear-gradient(90deg, rgba(46,1,70,1) 36%, rgba(0,0,66,1) 100%);
+  
   color: rgb(162, 120, 215);
   font-family: "Poppins", sans-serif;
 }
